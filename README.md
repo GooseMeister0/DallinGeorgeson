@@ -3,13 +3,14 @@
 
 Hello, GitHub! 👋
 
-I'm Dallin Georgeson, a student at Brigham Young University-Idaho interested in  computer science
+I'm Dallin Georgeson, a student at Brigham Young University-Idaho interested in  Computer Science
 
 ## About Me
 
 - I'm currently learning SQL, Arduino IDE
-- My goals are to solve problems
-- Ask me about ...
+- My goals are: 
+- to become better at programming.
+- To help solve problems that make the world easier to navigate.
 
 ## Technologies and Tools
 
