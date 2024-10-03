@@ -8,7 +8,7 @@ I'm Dallin Georgeson, a student at Brigham Young University-Idaho interested in 
 ## About Me
 
 - I'm currently learning SQL, Arduino IDE
-- My goals are: 
+My goals are: 
 - to become better at programming.
 - To help solve problems that make the world easier to navigate.
 
